@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/biathlon-task/static/js/main.0947864d.chunk.js",
+    "main.js.map": "/biathlon-task/static/js/main.0947864d.chunk.js.map",
+    "runtime-main.js": "/biathlon-task/static/js/runtime-main.f5f76110.js",
+    "runtime-main.js.map": "/biathlon-task/static/js/runtime-main.f5f76110.js.map",
+    "static/css/2.5c573378.chunk.css": "/biathlon-task/static/css/2.5c573378.chunk.css",
+    "static/js/2.709752f8.chunk.js": "/biathlon-task/static/js/2.709752f8.chunk.js",
+    "static/js/2.709752f8.chunk.js.map": "/biathlon-task/static/js/2.709752f8.chunk.js.map",
+    "index.html": "/biathlon-task/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/biathlon-task/static/css/2.5c573378.chunk.css.map",
+    "static/js/2.709752f8.chunk.js.LICENSE.txt": "/biathlon-task/static/js/2.709752f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5f76110.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.709752f8.chunk.js",
+    "static/js/main.0947864d.chunk.js"
+  ]
+}
